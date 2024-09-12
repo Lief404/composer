@@ -1,0 +1,13 @@
+{
+    "name": "acer/latihan_composer",
+    "description": "latihan",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Lief404",
+            "email": "aliefmuhammad916@gmail.com"
+        }
+    ],
+    "require": {}
+}
