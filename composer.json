@@ -9,5 +9,9 @@
             "email": "aliefmuhammad916@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "*",
+        "symfony/var-dumper": "*",
+        "guzzlehttp/guzzle": "*"
+    }
 }
